@@ -1,0 +1,10 @@
+User-agent: curvedBot
+Disallow: /nogooglebot/
+
+User-agent: *
+cGhwL2dpd
+mUtbWUtd
+GhlLWN0Zi5mbGFn
+Allow: /         
+
+Sitemap: https://www.dragon.com/sitemap.com

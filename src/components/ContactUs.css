@@ -1,0 +1,53 @@
+.contact-us-container{
+    display: flex;
+    margin-top: 50vh;
+}
+form{
+    padding: 4vw;
+    background-color: rgba(0, 41, 0, 0.574);
+    height: 65vh;
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 1.3em;
+    color: white;
+    
+}
+.email{
+    display: flex;
+    flex-direction: column;
+}
+input{
+    border : none;
+    border-bottom: 1px solid white;
+    background-color: transparent;
+    border-radius: 3px;
+    color: white;
+    padding-left: 1vw;
+    outline: none;
+}
+.phone{
+    display: flex;
+    flex-direction: column;
+}
+.name{
+    display: flex;
+    flex-direction: column;
+}
+.message{
+    display: flex;
+    flex-direction: column;
+}
+form button{
+    border : none;
+    background-color: transparent;
+    font-size: 1em;
+    cursor: pointer;
+    color: white;
+}
+.contact-us-map{
+    height: 50vh;
+    width: 50vw;
+    border : 0;
+}
